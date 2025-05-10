@@ -38,7 +38,7 @@ SQL: Custom SQL to model funnel behavior and calculate conversion rates.
 
 📄 SQL Code
 
-The full SQL code used is in [`sql/funnel_analysis.sql`](sql/funnel_analysis.sql).
+The full SQL code used is in Funnel_Analysis_SQL_Code.rtf
 
 📈 Visualization
 
